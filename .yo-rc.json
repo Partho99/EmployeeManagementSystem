@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.employee.management.system"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "EmployeeManagementSystem",
+    "packageName": "com.employee.management.system",
+    "packageFolder": "com/employee/management/system",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmM2NjZmZTAzYzk4MTJkYjdlMDg1ZWEzNGVhZGNiMWIzYzgwMDcyMWU4OGRlZTFjNDQ1ZTM0YjBjNTA2Y2NlYTgxYmIxNTAwNjY1NjVlOGNlMGZlN2M0ODgwY2Y3MWJhZDQxN2Q4MTBlZDM1NDRhNGMxZGY5NDE1YmIyYjVlNzI=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "minty",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1616415450324,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
